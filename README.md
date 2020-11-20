@@ -1,5 +1,5 @@
 ### A little bit about me... 👋
-
+(https://github.com/gq5154/gq5154/blob/main/p01.png)
 
 - 🔭 I’m currently working on a Compiler and Virtual Machine, Unity DOTS, experimental stuff
 - 🌱 I’m currently learning Unity DOTS
