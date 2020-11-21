@@ -6,7 +6,7 @@
 
 - My strongest points are: C with 25 years of experience so far, and C# with 6 years of experience so far.
 
-- I've written sofware for business and government and the web, but I also have written IT Tools such as: Command Interpreters, Application Engines, Database Engines and Compilers.
+- I've written sofware for business, government and the web, but I also have written IT Tools such as: Command Interpreters, Application Engines, Database Engines and Compilers.
 
 - I'm among the few programmes that can say they've created thier own programming language, robust and reach enough to be used on production apps for 20 years.
 
