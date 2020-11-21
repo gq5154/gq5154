@@ -1,6 +1,6 @@
 <img src=https://github.com/gq5154/gq5154/blob/main/p01.png>
 
-### Hi, I'm Jorge, from Monterrey Mexico! 👋
+### Hi, I'm Jorge, from Monterrey, Mexico! 👋
 
 - I've been a programmer for 33 years, during that time I've learned several programming languages including: Basic, Cobol, Pascal, dBase III+, Clipper, C, PowerBuilder, JavaScript and C#, and even created my own language.
 
